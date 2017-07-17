@@ -1,0 +1,13 @@
+li{
+  list-style: none;
+}
+
+.listItems {
+  cursor: pointer;
+  color: #0088cc;
+
+}
+
+.listItems:hover {
+  text-decoration: underline;
+}
